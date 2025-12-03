@@ -1,8 +1,12 @@
+streamlit
+requests
 fastapi
 uvicorn
-langchain
-langchain-community
-faiss-cpu
+aiohttp
+reportlab
+PyPDF2
 sentence-transformers
-pandas
-python-dotenv
+faiss-cpu
+sqlalchemy
+
+
